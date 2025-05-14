@@ -55,8 +55,6 @@ The goal is to compare the models based on standard evaluation metrics and deter
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
----
 
-## 📂 Project Structure
 
 
